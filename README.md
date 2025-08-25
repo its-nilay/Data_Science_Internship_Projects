@@ -3,7 +3,7 @@
 This repository contains two data analysis projects completed as part of an internship program. Each project demonstrates an end-to-end workflow, including data cleaning, exploratory data analysis, visualization, and summarizing key findings.
 
 ## Table of Contents
-1.  [Project 1: Supermart Grocery Sales - Retail Analytics][(#project-1-supermart-grocery-sales---retail-analytics)](https://github.com/its-nilay/Data_Science_Internship_Projects/blob/main/Netflix.ipynb)
+1.  [(#Project-1-Supermart-Grocery-Sales---Retail-Analytics)](https://github.com/its-nilay/Data_Science_Internship_Projects/blob/main/Netflix.ipynb)
 2.  [Project 2: Netflix Content Analysis](#project-2-netflix-content-analysis)
 
 ---
